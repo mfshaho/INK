@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.5.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.0" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 2160 2160" style="enable-background:new 0 0 2160 2160;" xml:space="preserve">
+<style type="text/css">
+	.st0{display:none;}
+	.st1{display:inline;fill:#0000FF;}
+	.st2{fill:#D6D6D6;}
+	.st3{display:none;fill:#0000FF;}
+	.st4{display:inline;}
+	.st5{fill:none;stroke:#ffffff;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+</style>
+<g id="bg" class="st0">
+	<rect class="st1" width="2160" height="2160"/>
+	<rect class="st2" width="2160" height="2160"/>
+</g>
+<g id="Layer_1">
+	<rect x="416.9" y="437.1" class="st3" width="1340" height="834.7"/>
+	<polygon points="974.4,1238.3 486,557.2 980.2,557.2 980.2,1238.3 	"/>
+	<polygon points="519.3,918.1 1008.5,1602.8 512.8,1602.8 512.8,918.1 	"/>
+	<rect x="687.8" y="1013.3" class="st0" width="50.4" height="256.1"/>
+	<g>
+		<path d="M299.8,1602.8H81V557.2h218.8V1602.8z"/>
+	</g>
+	<g class="st0">
+		<polygon class="st4" points="688.6,1015.8 688.6,1271.8 644.3,1271.8 524.5,1104.1 522.9,1104.1 522.9,1271.8 471.6,1271.8 
+			471.6,1015.8 516.3,1015.8 635.9,1182.6 637.4,1182.6 637.4,1015.8 		"/>
+	</g>
+	<g>
+		<path d="M1409.4,1602.8h-218.8V557.2h218.8V1034h6.5l392.8-476.8h243.5l-387,463.8l413.8,581.9h-261.6l-310.2-437l-97.8,117.4
+			V1602.8z"/>
+	</g>
+</g>
+<g id="Layer_2" class="st0">
+	<g class="st4">
+		<rect x="1245" y="437.1" class="st5" width="511.8" height="511.8"/>
+		<rect x="1440" y="948.9" class="st5" width="316.8" height="316.8"/>
+		<rect x="1245" y="1070.7" class="st5" width="195" height="195"/>
+		<rect x="1245" y="948.9" class="st5" width="121.7" height="121.8"/>
+		<rect x="1366.6" y="948.9" class="st5" width="73.4" height="73.4"/>
+		<rect x="1391.5" y="1022.3" class="st5" width="48.5" height="48.4"/>
+		<rect x="1366.6" y="1045.9" class="st5" width="24.9" height="24.9"/>
+		<path class="st5" d="M417.3,1266.4c0-458.4,370.9-829.3,829.3-829.3h-2c282.6,0,511.2,228.6,511.2,511.2
+			c0,175.8-142.3,318-318,318h2c-107.8,0-195.1-87.3-195.1-195.1c0-67.9,55-122.9,122.9-122.9h-2c41,0,74.1,33.2,74.1,74.1
+			c0,27-21.8,48.8-48.8,48.8c-12.9,0-23.4-11.3-23.4-25.4"/>
+	</g>
+</g>
+</svg>
