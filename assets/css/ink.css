@@ -66,10 +66,7 @@ canvas {
     background: #000;
 
     height: auto;
-    margin-left: 80px;
-    margin-top: 40px;
     margin-bottom: 80px;
-    margin-right: 80px;
 }
 
 .header-comp {
@@ -132,7 +129,7 @@ canvas {
 }
 
 .body-col-right {
-    padding-top: 300px;
+    margin-top: 300px;
 }
 
 .body-text-right {
@@ -148,43 +145,45 @@ canvas {
 
 
 .body-col-center {
-    position: absolute;
+    position: fixed;
 
+    top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
 
     -webkit-text-stroke: .5px white;
-    line-height: 5px;
+    line-height: 20px;
 
-    padding-top: 200px;
+    opacity: 10%;
 
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 
     font-family: 'Gilroy', sans-serif;
     font-weight: 600;
-    font-size: 100px;
+    font-size: 600px;
     font-style: normal;
-    z-index: 100;
+    z-index: -100;
 }
 
+.ink1 {
 
-.ink-1 {
-    line-height: 40px;
-    opacity: .075;
-  }
-.ink-2 {
-    line-height: 40px;
-    opacity: .20;
-  }
-.ink-3 {
-    line-height: 40px;
-    opacity: .40;
-  }
-.ink-4 {
-    line-height: 40px;
-    -webkit-text-stroke: 1px white;
-  }
+}
+.ink2 {
+
+}
+.ink3 {
+
+}
+.ink4 {
+
+}
+.ink5 {
+
+}
+.ink6 {
+
+}
 
 a {
     color: #FFFFFF;
@@ -367,12 +366,10 @@ img.inkimg {
 
     color: #fff;
 
-    background: #000;
     height: auto;
-    margin-left: 80px;
-    margin-top: 40px;
-    margin-bottom: 80px;
-    margin-right: 80px;
+    margin: 0px 80px;
+    padding-bottom: 80px;
+
 }
 
 .col-2-left {
@@ -388,7 +385,7 @@ img.inkimg {
 
 input[type=text] {
     padding: 12px 20px;
-    margin: 8px 0;
+
     box-sizing: border-box;
     border: none;
     border-bottom: 1px solid #000067;
@@ -401,16 +398,12 @@ input[type=text] {
     margin-right: 20px;
     margin-bottom: 15px;
 
-    background-color: #ccc;
-}
-
-input[type=text]:focus {
-    border: 3px solid #000067;
+    background-color: #000;
 }
 
 input[type=email] {
     padding: 12px 20px;
-    margin: 8px 0;
+
     box-sizing: border-box;
     border: none;
     border-bottom: 1px solid #000067;
@@ -423,15 +416,12 @@ input[type=email] {
     margin-right: 20px;
     margin-bottom: 15px;
 
-    background-color: #ccc;
-}
-input[type=email]:focus {
-    border: 3px solid #000067;
+    background-color: #000;
 }
 
 input[type=tel] {
     padding: 12px 20px;
-    margin: 8px 0;
+
     box-sizing: border-box;
     border: none;
     border-bottom: 1px solid #000067;
@@ -444,35 +434,37 @@ input[type=tel] {
     margin-right: 20px;
     margin-bottom: 15px;
 
-    background-color: #ccc;
-}
-input[type=tel]:focus {
-    border: 3px solid #000067;
+    background-color: #000;
 }
 
 .business {
     width: 95%;
     height: 150px;
     padding: 12px 20px;
-    margin: 8px 0;
     box-sizing: border-box;
     border: none;
     border-bottom: 1px solid #000067;
     -webkit-transition: 0.5s;
     transition: 0.5s;
     outline: none;
-    font-family: 'Gilroy';
+    font-family: 'Gilroy', serif;
     font-weight: 600;
     color: #333;
     margin-right: 20px;
     margin-bottom: 15px;
 
-    background-color: #ccc;
+    background-color: #000;
 }
-.business:focus {
-    border: 3px solid #000067;
-}
+.button {
+    width: auto;
+    padding: 5px 10px;
+    color: #ccc;
+    background-color: #000;
+    font-family: 'Gilroy', serif;
+    font-weight: 600;
 
+    cursor: pointer;
+}
 .input-head {
     font-size: 12px;
 }

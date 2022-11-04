@@ -80,9 +80,6 @@
 
 /* HEADER */
 @media screen and (max-width: 1150px) {
-    .body-col-center {
-        font-size: 90px;
-    }
     .body-text-right {
         font-size: 60px;
     }
@@ -94,9 +91,6 @@
     }
 }
 @media screen and (max-width: 1031px) {
-    .body-col-center {
-        font-size: 75px;
-    }
     .body-text-right {
         font-size: 55px;
     }
@@ -162,7 +156,7 @@
     }
 
     .body-col-center {
-        font-size: 75px;
+        font-size: 500px;
     }
     .body-text-right {
         font-size: 50px;
@@ -176,9 +170,7 @@
     }
 }
 @media screen and (max-width: 859px) {
-    .body-col-center {
-        font-size: 60px;
-    }
+
     .body-text-right {
         font-size: 45px;
     }
@@ -188,8 +180,8 @@
     }
 }
 @media screen and (max-width: 800px) {
-    .body-text-center {
-        font-size: 50px;
+    .col-1 {
+        margin: 0;
     }
     .body-text-right {
         font-size: 40px;
@@ -281,7 +273,7 @@
         width: 30px;
     }
     .body-col-right {
-        padding-top: 175px;
+
     }
 
 }
