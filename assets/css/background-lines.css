@@ -14,10 +14,11 @@
   margin-top: 111.5px;
   position: absolute;
   width: .5px;
-  height: 2031.5px;
+  height: 4000px;
   left: 50%;
   background: rgba(255, 255, 255, 0.1);
   overflow: hidden;
+  z-index: -100;
 }
 /* BG Lines */
 @media screen and (max-width: 1150px) {
